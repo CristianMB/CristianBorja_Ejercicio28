@@ -2,9 +2,9 @@
 #PBS -l nodes=1:ppn=1, mem=1gb,walltime=00:05:00
 #PBS -M cm.borja10@uniandes.edu.co
 #PBS -m abe
-#PBS -N CristianBorja_Ejercicio27
+#PBS -N CristianBorja_Ejercicio28
 
-cd /hpcfs/home/fisi4028/cm.borja10/CristianBorja_Ejercicio27/
+cd /hpcfs/home/fisi4028/cm.borja10/CristianBorja_Ejercicio28/
 
 module load mpich/3.2.1
 
