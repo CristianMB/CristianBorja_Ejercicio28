@@ -1,6 +1,6 @@
 all: L7
 
-L1: Listing_127.x
+L7: Listing_127.x
 	mpirun -np 4 ./Listing_127.x
 
 Listing_127.x: Listing_127.c
